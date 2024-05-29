@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0/J4DKWu04=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Aplicações em C#\\Youtube Downloader Versão 2\\Youtube Versão 2\\Youtube Versão 2\\Youtube Versão 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\cliwrap\\3.6.6\\cliwrap.3.6.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\youtubeexplode\\6.3.16\\youtubeexplode.6.3.16.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\youtubeexplode.converter\\6.3.16\\youtubeexplode.converter.6.3.16.nupkg.sha512"
+  ],
+  "logs": []
+}
